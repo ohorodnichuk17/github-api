@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+LIVE: https://gentle-bush-0bbd0bd10.4.azurestaticapps.net/
+
+
+<img width="1438" alt="Screenshot 2023-11-26 at 16 36 02" src="https://github.com/ohorodnichuk17/github-api/assets/101930820/dbf8fb5e-28d9-4f2b-9681-22a3d72abc11">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
